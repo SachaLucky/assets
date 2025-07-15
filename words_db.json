@@ -50,5 +50,13 @@
   "дверь":"door",
   "победа":"victory",
   "лампа":"lamp",
-  "автомобиль":"automobile"
+  "автомобиль":"automobile",
+  "забор":"fence",
+  "доски":"planks",
+  "люк":"trapdoor",
+  "блок":"block",
+  "алмаз":"diamond",
+  "золото":"gold",
+  "незерит":"netherite",
+  "лазурит":"lapis",
 }
