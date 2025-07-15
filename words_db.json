@@ -44,5 +44,11 @@
   "клавиатура":"keyboard",
   "гриб":"mushroom",
   "ресурс":"resource",
-  "window":"окно"
+  "окно":"window",
+  "кровать":"bed",
+  "элемент":"element",
+  "дверь":"door",
+  "победа":"victory",
+  "лампа":"lamp",
+  "автомобиль":"automobile"
 }
